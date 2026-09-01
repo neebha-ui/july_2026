@@ -86,3 +86,6 @@ words = ["apple", "banana", "cherry","date"]
 # word in words means  takes one word ata time from the words list.
 lengths = [len(word) for word in words]
 print(lengths)
+
+
+print("welcome")
